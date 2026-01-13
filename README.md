@@ -26,6 +26,8 @@ This project extends an Airbnb transactional database into a data warehouse–re
 * Renamed fields and adjusted relationships
 * Eliminated circular references and loops
 * Ensured a **clean star-schema structure**
+  <img width="975" height="479" alt="image" src="https://github.com/user-attachments/assets/e7d8f497-c6e9-4023-b1b2-7c9e44d71d91" />
+
 
 
 ---
@@ -47,6 +49,12 @@ This project extends an Airbnb transactional database into a data warehouse–re
   * Property performance
 * Implemented filters, KPIs, and visual charts
 * Ensured business-friendly reporting
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/83a55879-8bc8-478c-ad83-0e40a5c32555" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/c6fb244e-6a72-46d0-9965-043bf38a747f" />
+<img width="975" height="510" alt="image" src="https://github.com/user-attachments/assets/cb93c147-f98a-4aef-a104-7fa2739fbe66" />
+
+
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/392bb75d-cee3-4b94-882e-f28868e83275" />
 
 ---
 
